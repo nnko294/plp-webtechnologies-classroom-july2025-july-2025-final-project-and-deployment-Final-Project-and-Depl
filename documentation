@@ -1,0 +1,62 @@
+# Multipage Website Project Documentation
+
+## Project Overview
+
+This project is a responsive multipage website built to demonstrate modern web development skills using HTML5, CSS3, and JavaScript. The site is designed for clarity, usability, and real-world deployment.
+
+**Live Site:** [https://dapper-salamander-3d7eb4.netlify.app/](https://dapper-salamander-3d7eb4.netlify.app/)
+
+## Features
+
+- **Responsive Design:** Works seamlessly on mobile, tablet, and desktop devices.
+- **Sticky Navigation:** Header remains visible for easy access to all sections.
+- **Animated Transitions:** Smooth fade effects between sections.
+- **Image Gallery:** Interactive slider with manual and auto-play controls.
+- **Contact Form:** Validates user input and provides feedback.
+- **Google Map Embed:** Displays business location.
+- **Mobile Menu:** Collapsible navigation for smaller screens.
+
+## Site Structure
+
+- **Home:** Introduction and overview.
+- **About:** Information about the creator and project vision.
+- **Services:** Details of services offered.
+- **Gallery:** Image slider showcasing work.
+- **Contact:** Form and location details.
+
+## Technologies Used
+
+- **HTML5:** Semantic markup for structure.
+- **CSS3:** Flexbox, media queries, transitions, and custom styles.
+- **JavaScript:** Handles navigation, slider, form validation, and menu toggling.
+
+## File Organization
+
+- `index.html` — Main HTML file.
+- `styles.css` — Custom styles and responsive layout.
+- `script.js` — JavaScript for interactivity.
+- Images — Used in gallery and other sections.
+- `README.md` — Assignment instructions.
+- `documentation` — This documentation file.
+
+## Deployment
+
+The site is deployed on Netlify.  
+To deploy updates:
+1. Push changes to the GitHub repository.
+2. Netlify automatically rebuilds and updates the live site.
+
+## Best Practices
+
+- Semantic HTML and accessibility features.
+- Modular, commented code.
+- Consistent design and layout.
+- Responsive and mobile-friendly.
+- Validated forms for user input.
+
+## Credits
+
+Developed by **Emanuel Nnko**  
+Location: Dar es Salaam, Tanzania
+
+---
